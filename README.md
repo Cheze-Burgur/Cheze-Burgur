@@ -1,1 +1,4 @@
-hi
+- I'm a high school student that likes to code in my spare time
+- I do mostly html and javascript, but I will occasionally do python, java, or c++
+- Pretty much everything I have made will break if you try hard enough
+- Please note that some of the stuff I make will break by default on iPhone safari. To fix this, go to page settings, and turn on "Request Desktop Website." This should fix it.
